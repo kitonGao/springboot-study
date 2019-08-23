@@ -1,0 +1,19 @@
+#配置插件
+mybatis:
+  #type-aliases扫描路径
+  type-aliases-package: com.example.mybatis.entity
+  #mapper xml 实现扫描路径
+  mapper-locations: classpath:mybatis/mapper/*.xml
+
+mapper:
+  mappers:  com.example.mybatis.config.MyMapper
+  not-empty: false
+  identity: mysql
+
+pagehelper:
+  dialect: mysql
+  reasonable: true
+  support-methods-arguments: true
+  params: count=countSql
+
+

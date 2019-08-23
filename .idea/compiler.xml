@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common-api" />
+        <module name="server-provider" />
+        <module name="springboot-actuator" />
+        <module name="springboot-annotation" />
+        <module name="springboot-aop" />
+        <module name="springboot-async" />
+        <module name="springboot-converter" />
+        <module name="springboot-cross" />
+        <module name="springboot-exception" />
+        <module name="springboot-filter" />
+        <module name="springboot-json" />
+        <module name="springboot-kafka" />
+        <module name="springboot-logback" />
+        <module name="springboot-mongodb" />
+        <module name="springboot-mybatis" />
+        <module name="springboot-redis" />
+        <module name="springboot-security" />
+        <module name="springboot-swagger" />
+        <module name="springboot-webflux" />
+        <module name="springboot-webfluxandmongodb" />
+        <module name="springboot-xss" />
+        <module name="springboote-mail" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common-api" target="1.8" />
+      <module name="commonapi" target="1.8" />
+      <module name="dubboboot" target="1.8" />
+      <module name="server-provider" target="1.8" />
+      <module name="springboot-actuator" target="1.8" />
+      <module name="springboot-annotation" target="1.8" />
+      <module name="springboot-aop" target="1.8" />
+      <module name="springboot-async" target="1.8" />
+      <module name="springboot-converter" target="1.8" />
+      <module name="springboot-cross" target="1.8" />
+      <module name="springboot-exception" target="1.8" />
+      <module name="springboot-filter" target="1.8" />
+      <module name="springboot-json" target="1.8" />
+      <module name="springboot-kafka" target="1.8" />
+      <module name="springboot-logback" target="1.8" />
+      <module name="springboot-mongodb" target="1.8" />
+      <module name="springboot-mybatis" target="1.8" />
+      <module name="springboot-redis" target="1.8" />
+      <module name="springboot-security" target="1.8" />
+      <module name="springboot-swagger" target="1.8" />
+      <module name="springboot-webflux" target="1.8" />
+      <module name="springboot-webfluxandmongodb" target="1.8" />
+      <module name="springboot-xss" target="1.8" />
+      <module name="springboote-mail" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

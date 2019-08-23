@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-api/common-api.iml" filepath="$PROJECT_DIR$/common-api/common-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubboboot.iml" filepath="$PROJECT_DIR$/dubboboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-provider/server-provider.iml" filepath="$PROJECT_DIR$/server-provider/server-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-actuator/springboot-actuator.iml" filepath="$PROJECT_DIR$/springboot-actuator/springboot-actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-annotation/springboot-annotation.iml" filepath="$PROJECT_DIR$/springboot-annotation/springboot-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-aop/springboot-aop.iml" filepath="$PROJECT_DIR$/springboot-aop/springboot-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-async/springboot-async.iml" filepath="$PROJECT_DIR$/springboot-async/springboot-async.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-converter/springboot-converter.iml" filepath="$PROJECT_DIR$/springboot-converter/springboot-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-cross/springboot-cross.iml" filepath="$PROJECT_DIR$/springboot-cross/springboot-cross.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-exception/springboot-exception.iml" filepath="$PROJECT_DIR$/springboot-exception/springboot-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-filter/springboot-filter.iml" filepath="$PROJECT_DIR$/springboot-filter/springboot-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-json/springboot-json.iml" filepath="$PROJECT_DIR$/springboot-json/springboot-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-kafka/springboot-kafka.iml" filepath="$PROJECT_DIR$/springboot-kafka/springboot-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-logback/springboot-logback.iml" filepath="$PROJECT_DIR$/springboot-logback/springboot-logback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mongodb/springboot-mongodb.iml" filepath="$PROJECT_DIR$/springboot-mongodb/springboot-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" filepath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-redis/springboot-redis.iml" filepath="$PROJECT_DIR$/springboot-redis/springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-security/springboot-security.iml" filepath="$PROJECT_DIR$/springboot-security/springboot-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-swagger/springboot-swagger.iml" filepath="$PROJECT_DIR$/springboot-swagger/springboot-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-webflux/springboot-webflux.iml" filepath="$PROJECT_DIR$/springboot-webflux/springboot-webflux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-webfluxandmongodb/springboot-webfluxandmongodb.iml" filepath="$PROJECT_DIR$/springboot-webfluxandmongodb/springboot-webfluxandmongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-xss/springboot-xss.iml" filepath="$PROJECT_DIR$/springboot-xss/springboot-xss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboote-mail/springboote-mail.iml" filepath="$PROJECT_DIR$/springboote-mail/springboote-mail.iml" />
+    </modules>
+  </component>
+</project>

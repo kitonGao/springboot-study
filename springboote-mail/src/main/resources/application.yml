@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+spring:
+  mail:
+    host: stmp.163.com
+    username: root
+    password: root
+#    properties:
