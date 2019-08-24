@@ -38,6 +38,7 @@
         <module>springboot-webflux</module>
         <module>springboot-webfluxandmongodb</module>
         <module>springboot-security</module>
+        <module>springboot-readis-mode</module>
     </modules>
 
     <parent>
